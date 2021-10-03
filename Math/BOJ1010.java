@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 public class BOJ1010 {
     // https://www.acmicpc.net/problem/1010
     // 소요시간 >>
-    // 22:32 ~ 11:54 (1시간 22분)
+    // 22:32 ~ 11:54 (1시간 22분 -> 다리가 겹쳐지는 경우로 계속 생각했었다.. 그리고 겹치지 않을 떄의 방식을 구하는게 어려웠다.)
 
     // 아이디어 >>
     // dp[n][m]을 [n][m]으로 표현하면 해당 문제는 다음과 같은 규칙을 갖는다.
