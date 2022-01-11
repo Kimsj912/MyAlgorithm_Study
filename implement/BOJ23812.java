@@ -26,7 +26,6 @@ public class BOJ23812{
     // => 메모리 15280 -> 15104 / 시간 156 -> 164
     // * if문 대신 삼항연산자를 사용 (원상복구)
     // => 메모리 15280 -> 15292 / 시간 156 -> 160
-ㅏ
 
     private final static boolean[][] shape = {{true,true,true,true,true},{true,false,false,false,true}};
 
